@@ -1,0 +1,17 @@
+/*
+Sl8 Theme
+
+By JuiciiDev#5169
+*/
+
+* input.orange, nav.orange, nav.transparent, .card, .btn-floating, .red, #output {
+    background-image: linear-gradient(32deg, royalblue, rgb(0, 183, 255))!important;
+}
+
+* a {
+    color:white;
+}
+
+.btn {
+    background-image: linear-gradient(32deg, royalblue, rgb(0, 183, 255))!important;
+}
