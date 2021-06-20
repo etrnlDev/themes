@@ -6,5 +6,5 @@ By JuiciiDev#5169
 
 * input.orange, nav.orange, nav.transparent, .card, .btn-floating, .progress.orange, .determinate {
     background:url('https://wallpaperaccess.com/full/729682.jpg')!important;
-    background-size:cover!important;
+    background-size:cover;
 }
