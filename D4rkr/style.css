@@ -4,6 +4,6 @@ D4rkr Theme
 By JuiciiDev#5169
 */
 
-* .orange {
+* input.orange, nav.orange, nav.transparent, .card, .btn-floating, .progress.orange, .determinate {
     background:#2c2f33!important;
 }
