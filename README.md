@@ -12,4 +12,4 @@ The Official RBXUtil Themes Github Repo
 |--------|------------------------------------------|
 | D4rkr  | Gives RBXUtil a completely dark remodel. |
 | Altrn8 | Gives RBXUtil a galaxy base.             |
-| Sl8    | Gives RBXUtil a clean look.              |
+| Sl8    | Gives RBXUtil a clean blue look.         |
